@@ -1,7 +1,8 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: https://ycp8023.github.io/hugoblog
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
 paginate: 5
-theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
