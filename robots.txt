@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ycp8023.github.io/hugoblog/sitemap.xml
